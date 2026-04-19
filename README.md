@@ -1,4 +1,4 @@
-#Hi, I'm Toki 👋
+# Hi, I'm Toki 👋
 
 ## 今やってること
 - Linux 学習中(LinuC)
