@@ -1,16 +1,15 @@
-## Hi there 👋
+#Hi, I'm Toki 👋
 
-<!--
-**toki-linux/toki-linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 今やってること
+- Linux 学習中(LinuC)
+- インフラエンジニアを目指して勉強中
 
-Here are some ideas to get you started:
+##　学習内容
+- SSH
+- systemd
+- cron
+- nginx
+- ログ解析
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 一言
+実務レベルを意識して学習中です
