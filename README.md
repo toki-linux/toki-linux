@@ -13,3 +13,8 @@
 
 ## 一言
 実務レベルを意識して学習中です
+
+## 学習記録
+- [Linux学習(整理版)](https://github.com/toki-linux/linux-practice-clean)
+- [Linux学習(メモ)](https://github.com/toki-linux/linux-practice-raw)
+- [GitHub運用ルールや学び](https://github.com/toki-linux/How-to-use-Github)
